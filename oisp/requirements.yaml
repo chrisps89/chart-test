@@ -1,0 +1,21 @@
+dependencies:
+  - name: kafka
+    repository: http://localhost:8879/charts/oispCharts
+  - name: backend
+    repository: http://localhost:8879/charts/oispCharts
+  - name: dashboard
+    repository: http://localhost:8879/charts/oispCharts
+  - name: gearpump
+    repository: http://localhost:8879/charts/oispCharts
+  - name: hbase
+    repository: http://localhost:8879/charts/oispCharts
+  - name: nginx
+    repository: http://localhost:8879/charts/oispCharts
+  - name: postgres
+    repository: http://localhost:8879/charts/oispCharts
+  - name: redis
+    repository: http://localhost:8879/charts/oispCharts
+  - name: rules-engine
+    repository: http://localhost:8879/charts/oispCharts
+  - name: websocket
+    repository: http://localhost:8879/charts/oispCharts
